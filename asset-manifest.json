@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/registration-login-auth0/static/css/main.70963427.css",
+    "main.js": "/registration-login-auth0/static/js/main.d83116c8.js",
+    "index.html": "/registration-login-auth0/index.html",
+    "main.70963427.css.map": "/registration-login-auth0/static/css/main.70963427.css.map",
+    "main.d83116c8.js.map": "/registration-login-auth0/static/js/main.d83116c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70963427.css",
+    "static/js/main.d83116c8.js"
+  ]
+}
